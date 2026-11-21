@@ -1,6 +1,6 @@
 # create-repository
 
-Easily set up a new github repository. Reads the name/description from the package.json file if it's present. Sets origin upstream if it's not already set.
+Easily set up a new github repository. Reads the name/description from the app.py file if it's present. Sets origin upstream if it's not already set.
 
 ```
 npm install create-repository -g
